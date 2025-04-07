@@ -1,0 +1,53 @@
+Descripción
+Rocío ha decidido tomar el desafío de ingresar a un Bootcamp de programación, ya que
+desea adquirir nuevas habilidades, generar redes de contacto y aprender a programar.
+Siempre fue una estudiante destacada durante su educación media, ya que no requería de
+mucho esfuerzo y dedicación para obtener buenas calificaciones.
+Sin embargo, al finalizar el primer módulo del Bootcamp, Rocío no ha tenido buenos
+resultados, a pesar de que lee el material y asiste a clases, esto no se ha reflejado en sus
+calificaciones, y siente que quizás sería mejor abandonar la experiencia, ya que está
+frustrada, porque nunca había tenido que esforzarse tanto en el estudio.
+Ahora, para aprobar, depende de un trabajo en grupo, el cual le complica, ya que cree que
+terminará haciendo ella el trabajado de todos y, además, durante varias sesiones no ha
+interactuado con sus compañeros, por lo cual no sabría cómo trabajar con ellos. Sin
+embargo, un amigo ya realizó el curso y le ofreció entregarle el desarrollo de este trabajo, lo
+cual la tiene pensativa porque significaría cumplir con lo que necesita, sin pasar por más
+estrés.
+¿Cómo podemos ayudar a Rocío?
+
+Requerimientos
+1. Según lo presentado en el caso, los métodos de estudio de Rocío no han sido
+suficiente, por ello, te solicitamos sugerirle 2 métodos de organización de
+aprendizajes de los vistos en clases en el apartado de autoaprendizaje, y justifica la
+elección.
+(2 Puntos)
+    Método 01: Metodología de aprendizaje Activo
+    Puedes ir a tu ritmo, aprovechando de preguntar dudas, revisando videos e información que está en la red. Junto con lo anterior,
+    te puedes juntar con otros estudiantes para ir entendiendo el material.
+
+    Método 02: Metodología Centrado en los contenidos
+    Cuando no tienes las ganas de avanzar o no sabes como avanzar, una buena tecnica es centrarse en los contenidos para ir avanzando
+    a medida el guia docente te valla explicando la materia.
+
+
+2. Rocío está claramente frustrada porque no obtiene los resultados que ella espera,
+por eso, debes sugerirle un paso a paso para que ella pueda identificar su frustración
+y trabajarla. En este ítem, te debes guiar de lo visto en clases, en el punto “Técnicas
+para gestionar la tolerancia a la frustración”.
+(2,5 Puntos)
+
+
+3. El trabajo en equipo es una dificultad para Rocío. Para apoyarla, deberás completar el
+cuadro comparativo declarando las ventajas y desventajas del trabajo en equipo (al
+menos 4 ventajas y al menos 2 desventajas), que le permitan visualizar a Rocío un
+panorama general, y luego entrega tus recomendaciones, siguiendo la pauta del
+material de apoyo para el desafío.
+(3 Puntos)
+
+
+4. La oferta que recibe Rocío es muy tentadora, y solucionaría muchos de sus
+problemas, sin embargo, es poco ético. Por ello, escribe a Rocío al menos 5 razones
+por las cuales no debería aceptar este trato teniendo cómo idea principal que esto
+puede afectar a la industria TI cuando se desempeñe en labores relacionadas.
+(2,5 Puntos)
+
