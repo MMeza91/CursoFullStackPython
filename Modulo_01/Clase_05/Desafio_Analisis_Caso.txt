@@ -35,7 +35,22 @@ por eso, debes sugerirle un paso a paso para que ella pueda identificar su frust
 y trabajarla. En este ítem, te debes guiar de lo visto en clases, en el punto “Técnicas
 para gestionar la tolerancia a la frustración”.
 (2,5 Puntos)
-
+    1.- No te tomes nada a personal.
+    2.- Conocete a ti misma amiga Rocio, para ello conoce tus limitaciones y confía en tu potencial.
+    3.- Reconoce cuando te frustras y toma medidas, una buena practica es cambiar de tema o foco hasta volver a centrarnos.
+    4.- Ajusta tu estrategia utilizando estos tips:
+        -Prepara cada clase previamente, así tendrás un panorama claro de lo que vas a aprender.
+        -¡Pregunta todo!, no existen preguntas sin importancia. Apóyate en el equipo que está
+         preparado para resolver todas tus inquietudes.
+        -No te pierdas ninguna sesión, así podrás seguir el progreso de tu aprendizaje.
+        -Completa las tareas a tiempo, así estas no se acumularán y evitará que te frustres.
+        -No importa si algo no está perfecto, ayudará al equipo docente a conocer lo que te falta
+         por aprender y te acompañarán en el proceso.
+        -Somos comunidad. Participa de las sesiones de estudio que se te propongan y coordínate con
+         tus compañeros y compañeras para solicitar ayudantías. Crea grupos de estudio
+        -Participa de eventos de comunidad e incentiva a tus compañer@s a hacerlo. ¡Es un excelente
+         espacio para hacer Networking!
+        -Para lograr el objetivo, debes ¡Practicar, practicar y practicar!
 
 3. El trabajo en equipo es una dificultad para Rocío. Para apoyarla, deberás completar el
 cuadro comparativo declarando las ventajas y desventajas del trabajo en equipo (al
@@ -43,11 +58,29 @@ menos 4 ventajas y al menos 2 desventajas), que le permitan visualizar a Rocío 
 panorama general, y luego entrega tus recomendaciones, siguiendo la pauta del
 material de apoyo para el desafío.
 (3 Puntos)
+    Beneficios de trabajo en equipo:
+        -Crea sinergia de trabajo logrando nuevos y mayores logros.
+        -Los equipos son más fuertes ante los cambios vs trabajar solo.
+        -Los equipos pueden trabajar de forma flexible permitiendo mayor participación.
+        -Refuerza responsabilidad en el equipo.
+        -Te permite potenciar tus aptitudes y sanar tus limitaciones.
 
+    Desventajas de trabajo e equipo:
+        -Si hay gente que no trabaja, te llevas toda la responsabilidad.
+        -Si no logras generar un vinculo, mantener el grupo agota las energias.
+        -Si no conoces tus limitaciones y fortalezas es más dificil trabajar en equipo.
 
 4. La oferta que recibe Rocío es muy tentadora, y solucionaría muchos de sus
 problemas, sin embargo, es poco ético. Por ello, escribe a Rocío al menos 5 razones
 por las cuales no debería aceptar este trato teniendo cómo idea principal que esto
 puede afectar a la industria TI cuando se desempeñe en labores relacionadas.
 (2,5 Puntos)
-
+    1.- Aceptar que otro haga el trabajo por ti, no permite que aprendas lo necesario para poder enfrentarte a desafios laborales
+    similares en un futuro.
+    2.- No desarrollaras el potencial de trabajar en equipo, habilidad sumamente importante en el mundo de las TI
+    3.- Si te llegan a pillar, quedarás marcada profesionalmente disminuyendo tu credibilidad.
+    4.- Si te acostumbras a tomar la vía fácil, tu integridad profesional pesará menos que un paquete de papas fritas lays.
+    5.- Ir por el camino fácil, incentiva a que otras personas tomen ese camino, mermando la creatividad e innovación de la
+    industria, puesto que estas aparecen cuando hay dificultades.
+    6.- La seguridad de los proyectos de alto impacto se ve impactada al estar realizada por personas con poca integridad 
+    profesional.
